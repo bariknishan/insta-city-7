@@ -256,3 +256,12 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+ /* --------------------------------bonus area css ---------------------------- */
+ .bonus-area{
+   /* text-align: center; */
+   margin-top: 20px;
+   margin-left: 20px;
+ }
+ .bonus-area p{
+   font-weight: bold;
+ }
