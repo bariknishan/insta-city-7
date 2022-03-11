@@ -257,11 +257,23 @@ img {
   }
 }
  /* --------------------------------bonus area css ---------------------------- */
+
+
+ section{
+   margin-top: 20px;
+ }
+
  .bonus-area{
-   /* text-align: center; */
+  
    margin-top: 20px;
    margin-left: 20px;
+   padding: 34px;
+   
  }
  .bonus-area p{
    font-weight: bold;
  }
+
+ .bonus-area h2{
+  color:rgb(51, 51, 153);
+}
